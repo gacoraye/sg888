@@ -1,0 +1,64 @@
+.nomor{
+    position: relative;
+}
+
+.one{
+    position: fixed;
+    left: 19%;
+    top: 71%;
+}
+
+.two{
+    position: fixed;
+    left: 32%;
+    top: 71%;
+}
+
+.three{
+    position: fixed;
+    left: 45%;
+    top: 71%;
+}
+
+.for{
+    position: fixed;
+    left: 58%;
+    top: 71%;
+}
+
+.five{
+    position: fixed;
+    left: 71%;
+    top: 71%;
+}
+
+.six{
+    position: fixed;
+    left: 19%;
+    top: 81%;
+}
+
+.seven{
+    position: fixed;
+    left: 32%;
+    top: 81%;
+}
+
+.eight{
+    position: fixed;
+    left: 45%;
+    top: 81%;
+}
+
+.nine{
+    position: fixed;
+    left: 58%;
+    top: 81%;
+}
+
+.ten{
+    position: fixed;
+    left: 71%;
+    top: 81%;
+}
+
