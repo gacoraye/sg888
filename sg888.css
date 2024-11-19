@@ -1,78 +1,133 @@
 *{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
 body{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  background: url(asd.png) no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-.nomor{
-    position: relative;
+    background: url(asd.png) no-repeat;
+    background-position: relative;
+    height: 1280px;
+    width: 720px;
 }
 
-.one{
-    position: fixed;
-    left: 19%;
-    top: 71%;
+.laman .one{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 693px;
+    left: 138px;
 }
 
-.two{
-    position: fixed;
-    left: 32%;
-    top: 71%;
+.laman .two{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 693px;
+    left: 230px;
 }
 
-.three{
-    position: fixed;
-    left: 45%;
-    top: 71%;
+.laman .three{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 693px;
+    left:322px;
 }
 
-.for{
-    position: fixed;
-    left: 58%;
-    top: 71%;
+.laman .for{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 693px;
+    left: 414px;
 }
 
-.five{
-    position: fixed;
-    left: 71%;
-    top: 71%;
+.laman .five{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 693px;
+    left: 506px;
 }
 
-.six{
-    position: fixed;
-    left: 19%;
-    top: 81%;
+.laman .six{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 780px;
+    left: 138px;
 }
 
-.seven{
-    position: fixed;
-    left: 32%;
-    top: 81%;
+.laman .seven{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 780px;
+    left: 230px;
 }
 
-.eight{
-    position: fixed;
-    left: 45%;
-    top: 81%;
+.laman .eight{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 780px;
+    left:322px;
 }
 
-.nine{
-    position: fixed;
-    left: 58%;
-    top: 81%;
+.laman .nine{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 780px;
+    left: 414px;
 }
 
-.ten{
-    position: fixed;
-    left: 71%;
-    top: 81%;
+.laman .ten{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 780px;
+    left: 506px;
+}
+
+.laman .salas{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 865px;
+    left: 138px;
+}
+
+.laman .walas{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 865px;
+    left: 230px;
+}
+
+.laman .galas{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 865px;
+    left:322px;
+}
+
+.laman .palas{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 865px;
+    left: 414px;
+}
+
+.laman .malas{
+    position: absolute;
+    border-radius: 11%;
+    overflow: hidden;
+    top: 865px;
+    left: 505px;
 }
 
