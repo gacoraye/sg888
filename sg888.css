@@ -1,138 +1,186 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
-
 body{
-    background: url(asd.png) no-repeat;
-    background-position: relative;
-    height: 1280px;
-    width: 720px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(uyt.png) no-repeat;
+    background-size: cover;
 }
-
-.laman .one{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 693px;
-    left: 138px;
+.laman{
+    width: 300px;
+    height: 533px;
+    background: url(aaa.png);
+    background-repeat: no-repeat;
+    backdrop-filter: blur(100px);
+    color: #000000;
+    border-radius: 10px;
+    position: relative;
 }
-
-.laman .two{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 693px;
-    left: 230px;
+.button1{
+    width: 29px;
+    height: 29px;
+    background: #ff1e1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: 269px 65px;
 }
-
-.laman .three{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 693px;
-    left:322px;
+.button2{
+    width: 29px;
+    height: 29px;
+    background: #ff1e1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: -298px 100px;
 }
-
-.laman .for{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 693px;
-    left: 414px;
+.button3{
+    width: 29px;
+    height: 29px;
+    background: #ff1e1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: 269px 135px;
 }
-
-.laman .five{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 693px;
-    left: 506px;
+.button4{
+    width: 29px;
+    height: 29px;
+    background: #ff1e1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: -298px 171px;
 }
-
-.laman .six{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 780px;
-    left: 138px;
+.button5{
+    width: 29px;
+    height: 29px;
+    background: #ff1e1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: 269px 206px;
 }
-
-.laman .seven{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 780px;
-    left: 230px;
+.button6{
+    width: 29px;
+    height: 29px;
+    background: #351eff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: -264px 65px;
 }
-
-.laman .eight{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 780px;
-    left:322px;
+.button7{
+    width: 29px;
+    height: 29px;
+    background: #351eff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: 235px 100px;
 }
-
-.laman .nine{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 780px;
-    left: 414px;
+.button8{
+    width: 29px;
+    height: 29px;
+    background: #351eff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: -264px 135px;
 }
-
-.laman .ten{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 780px;
-    left: 506px;
+.button9{
+    width: 29px;
+    height: 29px;
+    background: #351eff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: 235px 171px;
 }
-
-.laman .salas{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 865px;
-    left: 138px;
+.button10{
+    width: 29px;
+    height: 29px;
+    background: #351eff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: -264px 205px;
 }
-
-.laman .walas{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 865px;
-    left: 230px;
+.button11{
+    width: 29px;
+    height: 29px;
+    background: #53ff1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: 268px 65px;
 }
-
-.laman .galas{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 865px;
-    left:322px;
+.button12{
+    width: 29px;
+    height: 29px;
+    background: #53ff1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: -297px 100px;
 }
-
-.laman .palas{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 865px;
-    left: 414px;
+.button13{
+    width: 29px;
+    height: 29px;
+    background: #53ff1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: 268px 135px;
 }
-
-.laman .malas{
-    position: absolute;
-    border-radius: 11%;
-    overflow: hidden;
-    top: 865px;
-    left: 505px;
+.button14{
+    width: 29px;
+    height: 29px;
+    background: #53ff1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: -297px 171px;
 }
-
-@media only screen and (max-width: 414px){
-    .laman{
-        visibility: collapse;
-    }
+.button15{
+    width: 29px;
+    height: 29px;
+    background: #53ff1e;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 5px;
+    color: #ffffff00;
+    margin: 268px 205px;
 }
