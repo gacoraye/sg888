@@ -131,3 +131,8 @@ body{
     left: 505px;
 }
 
+@media only screen and (max-width: 414px){
+    .laman{
+        visibility: collapse;
+    }
+}
