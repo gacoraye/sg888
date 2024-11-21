@@ -1,186 +1,172 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     display: flex;
     justify-content: center;
-    align-items: top;
+    align-items: center;
+    min-height: 100vh;
     background-color: #000000;
     background-size: cover;
+    background-position: center;
 }
 .laman{
     width: 320px;
-    height: 560px;
     background: url(ase.png);
     background-repeat: no-repeat;
     backdrop-filter: blur(100px);
     color: #000000;
     border-radius: 10px;
-    position: relative;
 }
 .button1{
     width: 29px;
     height: 29px;
-    background: #ff1e1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: 269px 65px;
+    margin: 288px 70px;
 }
 .button2{
     width: 29px;
     height: 29px;
-    background: #ff1e1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: -298px 100px;
+    margin: -317px 108px;
 }
 .button3{
     width: 29px;
     height: 29px;
-    background: #ff1e1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: 269px 135px;
+    margin: 288px 145px;
 }
 .button4{
     width: 29px;
     height: 29px;
-    background: #ff1e1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: -298px 171px;
+    margin: -317px 183px;
 }
 .button5{
     width: 29px;
     height: 29px;
-    background: #ff1e1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: 269px 206px;
+    margin: 288px 221px;
 }
 .button6{
     width: 29px;
     height: 29px;
-    background: #351eff;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: -264px 65px;
+    margin: -282px 70px;
 }
 .button7{
     width: 29px;
     height: 29px;
-    background: #351eff;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: 235px 100px;
+    margin: 254px 107px;
 }
 .button8{
     width: 29px;
     height: 29px;
-    background: #351eff;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: -264px 135px;
+    margin: -282px 145px;
 }
 .button9{
     width: 29px;
     height: 29px;
-    background: #351eff;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: 235px 171px;
+    margin: 252px 183px;
 }
 .button10{
     width: 29px;
     height: 29px;
-    background: #351eff;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: -264px 205px;
+    margin: -282px 221px;
 }
 .button11{
     width: 29px;
     height: 29px;
-    background: #53ff1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: 268px 65px;
+    margin: 290px 70px;
 }
 .button12{
     width: 29px;
     height: 29px;
-    background: #53ff1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: -297px 100px;
+    margin: -319px 108px;
 }
 .button13{
     width: 29px;
     height: 29px;
-    background: #53ff1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: 268px 135px;
+    margin: 290px 145px;
 }
 .button14{
     width: 29px;
     height: 29px;
-    background: #53ff1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: -297px 171px;
+    margin: -319px 183px;
 }
 .button15{
     width: 29px;
     height: 29px;
-    background: #53ff1e;
     border: none;
     outline: none;
     cursor: pointer;
     font-size: 5px;
     color: #ffffff00;
-    margin: 268px 205px;
+    margin: 290px 221px;
 }
